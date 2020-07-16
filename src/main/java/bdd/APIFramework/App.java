@@ -1,4 +1,4 @@
-package gaclickacademy;
+package bdd.APIFramework;
 
 /**
  * Hello world!
